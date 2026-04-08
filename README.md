@@ -1,3 +1,4 @@
+
 # MERN Stack Employee Management System
 ## Overview
 This project is an Employee Management System built using the MERN stack (MongoDB, Express.js, React, Node.js). This project has the following Modules:
@@ -10,3 +11,4 @@ This project is an Employee Management System built using the MERN stack (MongoD
    - **Attendance Management:** Manages employee attendance.
    - **Settings:** Allows users to manage their profile and password.
    - **Utilities:** Handles reusable components like private routes and role-based access.
+
